@@ -1,0 +1,74 @@
+[
+  {
+    "country": "ru",
+    "file": "{128}https://s.ruworship.ru:8005/radio;{96}https://s.ruworship.ru:8105/radio;{64}https://s.ruworship.ru:8095/radio",
+    "language": "ru",
+    "tagline": "Радио, славящее Господа!",
+    "tags": [
+      "music"
+    ],
+    "title": "RuWorship",
+    "titles": "Прославление",
+    "url": "https://ruworship.ru/"
+  },
+  {
+    "country": "ru",
+    "file": "{128}https://s.ruworship.ru:8075/radio;{96}https://s.ruworship.ru:8065/radio;{64}https://s.ruworship.ru:8055/radio",
+    "language": "ru",
+    "tagline": "Радио, славящее Господа!",
+    "tags": [
+      "music"
+    ],
+    "title": "RuWorship",
+    "titles": "Рождество",
+    "url": "https://ruworship.ru/"
+  },
+  {
+    "country": "ru",
+    "file": "{128}https://s.ruworship.ru:8195/stream;{96}https://s.ruworship.ru:8205/stream",
+    "language": "ru",
+    "tagline": "Радио, славящее Господа!",
+    "tags": [
+      "music"
+    ],
+    "title": "RuWorship",
+    "titles": "Фортепианное поклонение",
+    "url": "https://ruworship.ru/"
+  },
+  {
+    "country": "ru",
+    "file": "{128}https://s.ruworship.ru:8035/radio;{96}https://s.ruworship.ru:8025/radio;{64}https://s.ruworship.ru:8015/radio",
+    "language": "ru",
+    "tagline": "Радио, славящее Господа!",
+    "tags": [
+      "bible"
+    ],
+    "title": "RuWorship",
+    "titles": "Псалом",
+    "url": "https://ruworship.ru/"
+  },
+  {
+    "country": "ru",
+    "file": "{128}https://s.ruworship.ru:8145/radio;{96}https://s.ruworship.ru:8045/radio;{64}https://s.ruworship.ru:8115/radio",
+    "language": "ru",
+    "tagline": "Радио, славящее Господа!",
+    "tags": [
+      "bible"
+    ],
+    "title": "RuWorship",
+    "titles": "Новый завет",
+    "url": "https://ruworship.ru/"
+  },
+  {
+    "country": "ru",
+    "file": "{128}https://s.ruworship.ru:8155/stream;{96}https://s.ruworship.ru:8165/stream;{64}https://s.ruworship.ru:8175/stream",
+    "language": "ru",
+    "tagline": "Радио, славящее Господа!",
+    "tags": [
+      "bible"
+    ],
+    "title": "RuWorship",
+    "titles": "Библия по плану",
+    "url": "https://ruworship.ru/"
+  }
+]

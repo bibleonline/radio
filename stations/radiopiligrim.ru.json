@@ -1,0 +1,38 @@
+[
+  {
+    "country": "ru",
+    "file": "http://www.radiopiligrim.ru:8000/bible",
+    "language": "ru",
+    "tagline": "",
+    "tags": [
+      "bible"
+    ],
+    "title": "Пилигрим",
+    "titles": "Библия",
+    "url": "http://www.radiopiligrim.ru"
+  },
+  {
+    "country": "ru",
+    "file": "http://www.radiopiligrim.ru:8000/none-stop",
+    "language": "ru",
+    "tagline": "",
+    "tags": [
+      "music"
+    ],
+    "title": "Пилигрим",
+    "titles": "Музыка",
+    "url": "http://www.radiopiligrim.ru"
+  },
+  {
+    "country": "ru",
+    "file": "http://www.radiopiligrim.ru:8000/live",
+    "language": "ru",
+    "tagline": "",
+    "tags": [
+      "talk"
+    ],
+    "title": "Пилигрим",
+    "titles": "",
+    "url": "http://www.radiopiligrim.ru"
+  }
+]

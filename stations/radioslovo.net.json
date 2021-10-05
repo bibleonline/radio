@@ -1,0 +1,134 @@
+[
+  {
+    "country": "be",
+    "file": "https://rs.radioslovo.net:4395/radio",
+    "language": "ru",
+    "tagline": "",
+    "tags": [
+      "music"
+    ],
+    "title": "Открытое Слово",
+    "titles": "Музыка",
+    "url": "https://radioslovo.net/"
+  },
+  {
+    "country": "be",
+    "file": "https://rs.radioslovo.net:4055/stream",
+    "language": "ru",
+    "tagline": "",
+    "tags": [
+      "bible"
+    ],
+    "title": "Открытое Слово",
+    "titles": "Новый Завет",
+    "url": "https://radioslovo.net/bible-online.html"
+  },
+  {
+    "country": "be",
+    "file": "https://rs.radioslovo.net:4165/stream",
+    "language": "ru",
+    "tagline": "",
+    "tags": [
+      "bible"
+    ],
+    "title": "Открытое Слово",
+    "titles": "Ветхий Завет",
+    "url": "https://radioslovo.net/bible-online-vz.html"
+  },
+  {
+    "country": "be",
+    "file": "https://rs.radioslovo.net:4005/radio",
+    "language": "be",
+    "tagline": "",
+    "tags": [
+      "bible"
+    ],
+    "title": "Адкрытае Слова",
+    "titles": "Новы Запавет",
+    "url": "https://radioslovo.net/bible-belarusian.html"
+  },
+  {
+    "country": "be",
+    "file": "https://rs.radioslovo.net:4495/stream",
+    "language": "uk",
+    "tagline": "",
+    "tags": [
+      "bible"
+    ],
+    "title": "Відкрите Слово",
+    "titles": "Новий Заповіт",
+    "url": "https://radioslovo.net/bible-ukrainian.html"
+  },
+  {
+    "country": "be",
+    "file": "https://rs.radioslovo.net:4895/stream",
+    "language": "uk",
+    "tagline": "",
+    "tags": [
+      "bible"
+    ],
+    "title": "Відкрите Слово",
+    "titles": "Старий Заповіт",
+    "url": "https://radioslovo.net/bible-ukrainian-vt.html"
+  },
+  {
+    "country": "be",
+    "file": "https://rs.radioslovo.net:4205/stream",
+    "language": "en",
+    "tagline": "",
+    "tags": [
+      "bible"
+    ],
+    "title": "Revealed Word",
+    "titles": "Bible",
+    "url": "https://radioslovo.net/bible-english.html"
+  },
+  {
+    "country": "be",
+    "file": "https://rs.radioslovo.net:4125/stream",
+    "language": "de",
+    "tagline": "",
+    "tags": [
+      "bible"
+    ],
+    "title": "Das Offenbarte Wort",
+    "titles": "Die Bibel",
+    "url": "https://radioslovo.net/bible-english.html"
+  },
+  {
+    "country": "be",
+    "file": "https://rs.radioslovo.net:4145/stream",
+    "language": "ru",
+    "tagline": "",
+    "tags": [
+      "music"
+    ],
+    "title": "Открытое Слово",
+    "titles": "Авто Радио",
+    "url": "https://radioslovo.net/avtoradio.html"
+  },
+  {
+    "country": "be",
+    "file": "https://rs.radioslovo.net:4275/stream",
+    "language": "ru",
+    "tagline": "",
+    "tags": [
+      "music"
+    ],
+    "title": "Открытое Слово",
+    "titles": "Инструментальная музыка",
+    "url": "https://radioslovo.net/instruments.html"
+  },
+  {
+    "country": "be",
+    "file": "https://rs.radioslovo.net:5005/radio",
+    "language": "uk",
+    "tagline": "",
+    "tags": [
+      "music"
+    ],
+    "title": "Відкрите Слово",
+    "titles": "",
+    "url": "https://radioslovo.net/radio-ukrainian.html"
+  }
+]
