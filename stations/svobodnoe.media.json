@@ -1,7 +1,7 @@
 [
   {
     "country": "ru",
-    "file": "https://nradio.net/free",
+    "file": "https://stream.svobodnoe.media/freemp3",
     "language": "ru",
     "tagline": "",
     "tags": [
@@ -10,6 +10,6 @@
     ],
     "title": "Свободное радио",
     "titles": "",
-    "url": "https://svobodnoe.fm/"
+    "url": "https://svobodnoe.media"
   }
 ]

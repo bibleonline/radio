@@ -1,7 +1,7 @@
 [
   {
     "country": "ru",
-    "file": "https://stream.teos.fm/mp3_hq",
+    "file": "https://stream.teos.media:1045/stream",
     "language": "ru",
     "tagline": "",
     "tags": [

@@ -1,31 +1,6 @@
 [
   {
     "country": "ru",
-    "file": "http://s6.radioheart.ru:8000/Music",
-    "language": "ru",
-    "tagline": "",
-    "tags": [
-      "music"
-    ],
-    "title": "Propovedi24.ru",
-    "titles": "Музыка",
-    "url": "http://propovedi24.ru"
-  },
-  {
-    "country": "ru",
-    "file": "http://s5.radioheart.ru:8018/live",
-    "language": "ru",
-    "tagline": "",
-    "tags": [
-      "sermon"
-    ],
-    "title": "Propovedi24.ru",
-    "titles": "Проповеди",
-    "url": "http://propovedi24.ru"
-  },
-  {
-    "country": "ru",
-    "file": "http://a9.radioheart.ru:8015/RH50061",
     "language": "ru",
     "tagline": "",
     "tags": [
@@ -33,18 +8,39 @@
     ],
     "title": "Propovedi24.ru",
     "titles": "Эфир",
-    "url": "http://propovedi24.ru"
+    "url": "http://5.45.80.27:8000/efir"
   },
   {
     "country": "ru",
-    "file": "http://s4.radioheart.ru:8018/NZ",
     "language": "ru",
     "tagline": "",
     "tags": [
-      "bible"
+      "music"
     ],
     "title": "Propovedi24.ru",
-    "titles": "Новый завет",
-    "url": "http://propovedi24.ru"
+    "titles": "Музыка",
+    "url": "http://5.45.80.27:8000/music"
+  },
+  {
+    "country": "ru",
+    "language": "ru",
+    "tagline": "",
+    "tags": [
+      "talk"
+    ],
+    "title": "Propovedi24.ru",
+    "titles": "Новый Завет",
+    "url": "http://5.45.80.27:8000/new"
+  },
+  {
+    "country": "ru",
+    "language": "ru",
+    "tagline": "",
+    "tags": [
+      "sermon"
+    ],
+    "title": "Propovedi24.ru",
+    "titles": "Проповеди",
+    "url": "http://5.45.80.27:8000/propovedi"
   }
 ]

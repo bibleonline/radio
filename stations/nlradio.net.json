@@ -1,7 +1,7 @@
 [
   {
     "country": "ua",
-    "file": "{Низкое}https://ic2.sslstream.com/nlradio;{Высокое}https://nlradio.stream/hifi",
+    "file": "{Хорошее}https://nlradio.stream:8000/nlradio-mid.aac;{Высокое}https://nlradio.stream:8000/nlradio-hi.aac",
     "language": "ru",
     "tagline": "",
     "tags": [

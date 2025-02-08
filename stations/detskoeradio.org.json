@@ -1,7 +1,7 @@
 [
   {
     "country": "ru",
-    "file": "http://live.detskoeradio.org/radio.mp3",
+    "file": "https://live2.detskoeradio.org/radio.mp3",
     "language": "ru",
     "tagline": "",
     "tags": [
@@ -9,6 +9,6 @@
     ],
     "title": "Детское христианское радио",
     "titles": "",
-    "url": "http://detskoeradio.org"
+    "url": "https://detskoeradio.org"
   }
 ]
